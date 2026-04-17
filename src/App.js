@@ -1,7 +1,7 @@
 import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Landing from "./components/Landing";
-import Register from "./components/Register";
+import Register from "./components/Register.js";
 import Login from "./components/Login";
 import Navbar from "./components/Navbar";
 import store from "./redux/store";
